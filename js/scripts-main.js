@@ -23,3 +23,4 @@ function carregar() {
         document.body.style.background = '#515154'
     }
 } 
+setInterval(carregar, 1)
